@@ -22,7 +22,6 @@ All data is stored locally in a `tasks.json` file — no database required.
 
 ## 📝 Commands
 
-|---------------------------------|------------------------------------------|
 | Command                         | Description                              |
 |---------------------------------|------------------------------------------|
 | `help`                          | Display the list of available commands   |
@@ -33,7 +32,6 @@ All data is stored locally in a `tasks.json` file — no database required.
 | `mark-done <id>`                | Set a task’s status to **DONE**          |
 | `list [status]`                 | Show all tasks or filter them by status  |
 | `exit`                          | Exit the application                     |
-|---------------------------------|------------------------------------------|
 
 ---
 
